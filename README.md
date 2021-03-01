@@ -20,14 +20,22 @@
 - PHP
 - MySQL
 
-## Installation
+## Run the application
 
-Pull the projet.
-
-Run "npm run build" and build the modules
-
-Generate the Android and iOS folders using "react-native eject"
-
-Link the libraries "react-native link"
-
-Start devoloping the application!
+1. Get a clone of the respository.
+2. Navigate to the project directory.
+```sh
+cd USocialNetwork;
+```
+3. Install Node modules
+```npm
+npm install
+```
+4. Start application
+```npm
+npx react-native start
+```
+5. Build an Android APK
+```npm
+npx react-native run-android
+```
