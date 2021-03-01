@@ -25,17 +25,17 @@
 1. Get a clone of the respository.
 2. Navigate to the project directory.
 ```sh
-cd USocialNetwork;
+$ cd USocialNetwork;
 ```
 3. Install Node modules
 ```npm
-npm install
+$ npm install
 ```
 4. Start application
 ```npm
-npx react-native start
+$ npx react-native start
 ```
 5. Build an Android APK
 ```npm
-npx react-native run-android
+$ npx react-native run-android
 ```
