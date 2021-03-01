@@ -1,6 +1,8 @@
-#USocialNetwork
+# U Social Network
 
-A Voice Command Based Social Network Application for Blind and Visually Impaired People
+**A Voice Based Social Network Application for Blind and Visually Impaired People.**
+
+
 
 Pull the projet.
 
